@@ -1,12 +1,27 @@
+
 .felipeneto{
 
     background-color: black;
     color: aliceblue;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
+.headerp{
+
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: x-large;
+    font-weight: bold;
+}
 #feijao{
-    width:100% ;
+
+    width: 60% ;
+    margin: 390px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 .shrek{
@@ -14,213 +29,403 @@
     background-color: black;
     color: aliceblue;
     margin-top: 0px;
-
+    margin-bottom: 0px;
 }
 
 .wtf{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+    margin-top: 5px;
+    color: aliceblue;
 }
+
+.wtf2{
+
+    margin: 20px;
+}
+
 #docedeleite{
 
-    width: 100%;
-
+    width: 60%;
+    margin: 390px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .fire{ 
 
     font-weight: bold;
     font-size: large;
-    margin: 0;
+    margin: 10px;
+    color: aliceblue;
+}
 
+.fire2{
+
+    margin: 20px;
+}
+
+.fire3{
+
+    font-weight: bold;
+    font-size: large;
+    margin: 10px;
+    color: aliceblue; 
+}
+
+.fire4{
+
+    margin: 20px;
 }
 
 .luisa{
 
     font-weight: bold;
     font-size: xx-large;
+    margin: 10px;
+    color: aliceblue;
 }
 
 .lilith{
 
     background-color: black;
     color: aliceblue;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
 }
 
-.quartzorosa{
+.pedra1{
+
+    margin: 20px;
+}
+
+.ametista{   
 
     font-weight: bold;
-    font-size: larger;
-
+    font-size: large;
+    margin: 10px;
 }
 
 .turmalinanegra{
 
     font-weight: bold;
     font-size: large;
-
+    margin: 10px;
 }
 
-.ametista{
+.pedra2{
+
+    margin: 20px;
+}
+
+.quartzorosa{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
 
+.pedra3{
+
+    margin: 20px;
 }
 
 .obsidiana{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.pedra4{
+
+    margin: 20px;
 }
 
 .green{
 
     font-weight: bold;
     font-size: large;
-
+    font-size: large;
+    margin: 10px;
 }
 
+.vela1{
+
+    margin: 20px;
+}
 
 .candle{
 
     font-weight: bold;
     font-size: xx-large;
-    
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: aliceblue;
 }
 
 .red{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.vela2{
+
+    margin: 20px;
 }
 
 .orange{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.vela3{
+
+    margin: 20px;
 }
 
 .pink{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.vela4{
+
+    margin: 20px;
 }
 
 .blue{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.vela5{
+
+    margin: 20px;
 }
 
 .yelow{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
 }
 
-.white{
+.vela6{
 
-    font-weight: bold;
+    margin: 20px;
     font-size: large;
+    margin: 10px;
+}
+
+.vela7{
+
+    margin: 20px;
 }
 
 .black{
 
+    font-size: large;
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.white{
+
+    font-size: large;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.vela8{
+
+    margin: 20px;
 }
 
 .brown{
 
     font-weight: bold;
     font-size: large;
+    margin: 10px;
+}
+
+.vela9{
+
+    margin: 20px;
 }
 
 #w1{
 
     width: 24%;
-
+    margin-left: 25px;
 }
 
 #w2{
 
-    width: 24%
-    ;
+    width: 24%;
 }
 
 #w3{
 
     width: 24%;
-
 }
 
 #w4{
 
     width: 24%;
-
 }
 
 .uno{
 
     background-color: black;
     color: aliceblue;
-
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .books{
 
     font-weight: bolder;
     font-size: xx-large;
+    margin: 10px;
+    color: aliceblue;
+}
+
+.books2{
+
+    margin: 20px;
 }
 
 .A{
 
     font-weight: bold;
     font-size: large;
-
+    margin: 20px;
 }
 
 .B{
 
     font-weight: bold;
     font-size: large;
-
+    margin: 20px;
 }
 
 .C{
 
     font-weight: bold;
     font-size: large;
-
+    margin: 20px;
 }
 
 .D{
 
     font-weight: bolder;
     font-size: large;
-
+    margin: 20px;
 }
 
 .E{
 
     font-weight: bold;
     font-size: large;
-
+    margin: 20px;
 }
 
 .F{
 
     font-weight: bold;
     font-size:large;
-
+    margin: 20px;
 }
 
 #w5{
 
-    width: 100%;
-
+    width: 60%;
+    margin: 390px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
+.diference{
+
+    font-weight: bold;
+    font-size: large;
+    margin: 20px;
+}
+
+.pag{
+    
+    margin: 10px;
+}
+
+.neopag{
+
+    margin: 10px;
+}
+
+.wicca{
+
+    margin: 10px;
+}
+
+.witch{
+
+    margin: 10px;
+}
+
+.p1{
+
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.p2{
+
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.p3{
+
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.p4{
+
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.amandalovelace{
+
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#dif{
+
+    width: 80%;
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
